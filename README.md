@@ -9,4 +9,3 @@
 - CSS
 - JS
 - JAVA
-- PYTHON
